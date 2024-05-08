@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace INeedSleep.Lib
+namespace INeedSleep.Mod
 {
-    internal class Networking
+    internal class Gui
     {
     }
 }

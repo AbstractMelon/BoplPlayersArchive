@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace INeedSleep
+namespace INeedSleep.Mod
 {
-    internal class Gui
+    internal class Changer
     {
     }
 }

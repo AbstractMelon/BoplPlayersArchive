@@ -3,7 +3,7 @@ using BepInEx.Logging;
 using HarmonyLib;
 using UnityEngine.SceneManagement;
 
-namespace BoplMorePlayers
+namespace INeedSleep.Mod
 {
     [BepInPlugin("com.BRT.MorePlayers", "More Players", "1.0.0")]
     public class Main : BaseUnityPlugin
@@ -12,7 +12,7 @@ namespace BoplMorePlayers
         private static Harmony harmony;
         private void Awake()
         {
-            logger = base.Logger;
+            logger = Logger;
 
             // Plugin startup logic
             Logger.LogInfo($"You now get more players!");
