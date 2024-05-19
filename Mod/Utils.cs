@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace INeedSleep.Mod
 {
-    internal class Utils
+    public class Utils
     {
     }
 }

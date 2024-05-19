@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace INeedSleep.Mod
 {
-    internal class Changer
+    public class Changer
     {
+            
     }
 }

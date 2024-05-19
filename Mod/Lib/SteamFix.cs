@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace INeedSleep.Mod.Lib
 {
-    internal class SteamFix
+    public class SteamFix
     {
     }
 }

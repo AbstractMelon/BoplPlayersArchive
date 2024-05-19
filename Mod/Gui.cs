@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace INeedSleep.Mod
 {
-    internal class Gui
+    public class Gui
     {
     }
 }
